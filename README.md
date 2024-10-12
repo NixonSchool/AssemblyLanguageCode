@@ -1,6 +1,6 @@
-**🔧 Welcome to My World of Assembly Language 🔧**
+**🔧 My World of Assembly Language 🔧**
 
-Are you ready to dive headfirst into the wild and wonderful world of assembly programming? Well, I've created this collection of resources to help you get started. 
+I know you're ready to dive headfirst into the wild and wonderful world of assembly programming? Well, I've created this collection of resources to help you get started. 
 
 **🗺️ The Game Plan**
 
