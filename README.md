@@ -8,9 +8,9 @@ I've documented my own assembly quest, from fumbling beginner to... well, slight
 
 **⏱️ Pace Yourself**
 
-Remember, this isn't a sprint. Assembly is like learning to speak machine – it takes **time, REPETITION, REPETITION and patience**. 
+Assembly is learning to speak to machines – it takes **time, REPETITION, REPETITION and patience**. 
 
-When you're stuck (and trust me, you will be), we have our AI friends ChatGPT, Gemini, and Claude.
+When you're stuck, ChatGPT, Gemini, and Claude.
 
 For better notes, use cherrytree to open the .ctd files:
 
