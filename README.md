@@ -20,6 +20,12 @@ For better notes, use cherrytree to open the .ctd files:
 
 ![image](https://github.com/user-attachments/assets/95f40381-cb0f-4cd3-942a-5b8f3fabc48e)
 
+WinAPI + Assembly: 
+
+![image](https://github.com/user-attachments/assets/cc12867a-9b5b-464f-9101-96c084184857)
+
+And much more...
+
 Change some preferences, and you'll have a similar looking cherrytree theme.
 
 **🕵️ Why Bother?**
