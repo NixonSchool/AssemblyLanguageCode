@@ -28,7 +28,7 @@ It's not easy, but with time you get the flow and be able to integrate it into y
 
 You will be slapped by errors every single point, don't quit. 
 
-![image](https://github.com/user-attachments/assets/d43a9e8f-bf9a-42f6-9835-554598171d87)
+![image](https://github.com/user-attachments/assets/9777a410-7a45-4bdb-8a6f-398ebd4addc0)
 
 Also, many IDEs do not support assembly directly, so...
 
