@@ -1,32 +1,40 @@
 **🔧 My World of Assembly Language 🔧**
 
-I know you're ready to dive headfirst into the wild and wonderful world of assembly programming? Well, I've created this collection of resources to help you get started. 
+I know you're ready to dive headfirst into the wild and wonderful world of **assembly programming**. 
 
-**🗺️ The Game Plan**
-
-I've documented my own assembly quest, from fumbling beginner to... well, slightly less fumbling enthusiast. Expect clear explanations and plenty of "aha!" moments along the way.
+I've documented my own assembly quest, from fumbling beginner to... well, slightly less fumbling enthusiast.
 
 ![image](https://github.com/user-attachments/assets/e6802fbb-3c32-473b-ac7c-57262e88992a)
 
 **⏱️ Pace Yourself**
 
-Remember, this isn't a sprint. Assembly is like learning to speak machine – it takes time, patience, and a healthy sense of humor. When you're stuck (and trust me, you will be), our AI friends ChatGPT, Gemini, and Claude are always here to lend a hand.
+Remember, this isn't a sprint. Assembly is like learning to speak machine – it takes **time, REPETITION, REPETITION and patience**. 
+
+When you're stuck (and trust me, you will be), we have our AI friends ChatGPT, Gemini, and Claude.
 
 **🕵️ Why Bother?**
 
-Ever wanted to reverse engineer software or analyze malware? That's where assembly shines. Plus, it's a great way to impress (or terrify) your programming buddies.
+To do a reverse engineer's job, malware analysis, pentesting and use tools like ghidra, ida, cutter, binary ninja, radare and the rest, that's where assembly shines. 
+
+Plus, it's a great way to impress (or terrify) your programming buddies and your crush obviously.
 
 ![image](https://github.com/user-attachments/assets/6a1c2faf-794d-43fd-b559-db449c3120ac)
 
-I want you, like a skilled technician, to be able to fine-tune any complex machine. 
+I want you to be able to fine-tune any complex machine. 
 
-It's not easy, but with time you get the flow and be able to integrate it into your C/C++ programs. You will be slapped by errors every single point, don't quit. 
+It's not easy, but with time you get the flow and be able to integrate it into your C/C++ programs. 
+
+![image](https://github.com/user-attachments/assets/ff04d04c-f986-4c4f-b4c6-371439ecbb18)
+
+You will be slapped by errors every single point, don't quit. 
 
 ![image](https://github.com/user-attachments/assets/d43a9e8f-bf9a-42f6-9835-554598171d87)
 
-You will learn how to configure assembly to run on your machine, coz most IDE's don't give a damn about assembly. So, you'll have to go in yourself, download libaries, set them up yourself. 
+Also, many IDEs do not support assembly directly, so...
 
-It's tough, but I tried to guide you the best way. You'll become the compiler yourself, I promise!
+You'll learn to carry out research on the tools you need, go in yourself, download libaries, set them up manually and run them in your terminal or IDE. 
+
+You are the compiler, you get the dependencies and set them up. 
 
 Remember, I'm learning too! This is my attempt to make assembly a bit less scary for all of us curious coders out there.
 
