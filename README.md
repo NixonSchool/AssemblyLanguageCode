@@ -16,6 +16,8 @@ For better notes, use cherrytree to open the .ctd files:
 
 ![image](https://github.com/user-attachments/assets/86fdfd69-baf5-481e-a9dd-dd5c4ca20b5c)
 
+![image](https://github.com/user-attachments/assets/d5418442-7a9e-44bd-a98c-8d47ed0b3323)
+
 Change some preferences, and you'll have a similar looking cherrytree theme.
 
 **🕵️ Why Bother?**
