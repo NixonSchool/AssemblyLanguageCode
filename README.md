@@ -6,7 +6,7 @@ Are you ready to dive headfirst into the wild and wonderful world of assembly pr
 
 I've documented my own assembly quest, from fumbling beginner to... well, slightly less fumbling enthusiast. Expect clear(ish) explanations and plenty of "aha!" moments along the way.
 
-![image](https://github.com/user-attachments/assets/7d78a501-6433-4f3f-9125-0dcdeca0e56d)
+![image](https://github.com/user-attachments/assets/e6802fbb-3c32-473b-ac7c-57262e88992a)
 
 **⏱️ Pace Yourself**
 
