@@ -12,6 +12,12 @@ Remember, this isn't a sprint. Assembly is like learning to speak machine – it
 
 When you're stuck (and trust me, you will be), we have our AI friends ChatGPT, Gemini, and Claude.
 
+For better notes, use cherrytree to open the .ctd files:
+
+![image](https://github.com/user-attachments/assets/86fdfd69-baf5-481e-a9dd-dd5c4ca20b5c)
+
+Change some preferences, and you'll have a similar looking cherrytree theme.
+
 **🕵️ Why Bother?**
 
 To do a reverse engineer's job, malware analysis, pentesting and use tools like ghidra, ida, cutter, binary ninja, radare and the rest, that's where assembly shines. 
