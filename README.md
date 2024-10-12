@@ -4,7 +4,7 @@ Are you ready to dive headfirst into the wild and wonderful world of assembly pr
 
 **🗺️ The Game Plan**
 
-I've documented my own assembly quest, from fumbling beginner to... well, slightly less fumbling enthusiast. Expect clear(ish) explanations and plenty of "aha!" moments along the way.
+I've documented my own assembly quest, from fumbling beginner to... well, slightly less fumbling enthusiast. Expect clear explanations and plenty of "aha!" moments along the way.
 
 ![image](https://github.com/user-attachments/assets/e6802fbb-3c32-473b-ac7c-57262e88992a)
 
@@ -38,4 +38,4 @@ Time ⏳
 
 **Let's rock the assembly world together! 🚀**
 
-
+[Drop your Thanks!](https://www.paypal.com/donate/?hosted_button_id=ZKCJNMVY5Y9S6)
