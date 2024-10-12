@@ -38,7 +38,7 @@ Plus, it's a great way to impress (or terrify) your programming buddies and your
 
 I want you to be able to fine-tune any complex machine. 
 
-It's not easy, but with time you get the flow and be able to integrate it into your C/C++ programs. 
+It's not easy, but with time you'll get the flow. You'll be able to integrate it into your C/C++ programs. 
 
 ![image](https://github.com/user-attachments/assets/ff04d04c-f986-4c4f-b4c6-371439ecbb18)
 
