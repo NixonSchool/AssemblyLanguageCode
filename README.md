@@ -62,4 +62,3 @@ Time ⏳
 
 **Let's rock the assembly world together! 🚀**
 
-[Drop your Thanks!](https://www.paypal.com/donate/?hosted_button_id=ZKCJNMVY5Y9S6)
